@@ -2,4 +2,4 @@
 
 [![](slide-1.png)](http://www.slideshare.net/sublee/lt-vol-2)
 
-추가 발표 자료: [원고](SCRIPT.md), [Q&A](ASKED.md)
+추가 발표 자료: [원고](SCRIPT.md), [Q&A](ASKED.md), [참여하신 분](CONTRIBUTORS.md)
